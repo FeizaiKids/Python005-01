@@ -1,0 +1,1 @@
+# alter table db1.Table1 add primary key (id) ;
